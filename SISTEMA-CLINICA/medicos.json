@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Kevin Antonio",
+        "apellido": "Schneider",
+        "edad": "25",
+        "cuilCuit": "20402112696",
+        "telefono": "44090292",
+        "sexo": "Masculino",
+        "titulo": "Lic en Enfermeria",
+        "especialidad": "Enfermer\u00eda Cl\u00ednica y Familiar"
+    },
+    {
+        "nombre": "Santiago Nicolas",
+        "apellido": "Aranda",
+        "edad": "19",
+        "cuilCuit": "20459010185",
+        "telefono": "44873391",
+        "sexo": "Masculino",
+        "titulo": "Medico",
+        "especialidad": "Dermatolog\u00eda"
+    },
+    {
+        "nombre": "Cris Sofia",
+        "apellido": "Dominguez",
+        "edad": "20",
+        "cuilCuit": "20444657164",
+        "telefono": "44651921",
+        "sexo": "Femenino",
+        "titulo": "Lic en Enfermeria",
+        "especialidad": "Unidad Terapia Intensiva Adulto"
+    },
+    {
+        "nombre": "Lourdes Antonella",
+        "apellido": "Bordon Sbardella",
+        "edad": "23",
+        "cuilCuit": "20429939483",
+        "telefono": "44273439",
+        "sexo": "Femenino",
+        "titulo": "Lic en Enfermeria",
+        "especialidad": "Enfermer\u00eda Cl\u00ednica y Familiar"
+    },
+    {
+        "nombre": "Victoria Valentina",
+        "apellido": "Maidana Corti",
+        "edad": "21",
+        "cuilCuit": "20439387901",
+        "telefono": "44254556",
+        "sexo": "Femenino",
+        "titulo": "Medico",
+        "especialidad": "Psiquiatr\u00eda"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "codBarras": "926659",
+        "farmacoUtensilios": "Guantes de latex",
+        "cantidadExistente": 80,
+        "cantidadMin": 20,
+        "cantidadMax": 100
+    },
+    {
+        "codBarras": "832582",
+        "farmacoUtensilios": "Paracetamol",
+        "cantidadExistente": 180,
+        "cantidadMin": 70,
+        "cantidadMax": 300
+    },
+    {
+        "codBarras": "733483",
+        "farmacoUtensilios": "Jeringas Descartables",
+        "cantidadExistente": 100,
+        "cantidadMin": 40,
+        "cantidadMax": 200
+    },
+    {
+        "codBarras": "934585",
+        "farmacoUtensilios": "Batas de Laboratorio",
+        "cantidadExistente": 120,
+        "cantidadMin": 30,
+        "cantidadMax": 220
+    },
+    {
+        "codBarras": "132581",
+        "farmacoUtensilios": "Mascarillas Quirurgicas",
+        "cantidadExistente": 90,
+        "cantidadMin": 20,
+        "cantidadMax": 250
+    },
+    {
+        "codBarras": "235589",
+        "farmacoUtensilios": "Agujas Hipodermicas",
+        "cantidadExistente": 130,
+        "cantidadMin": 60,
+        "cantidadMax": 300
+    },
+    {
+        "codBarras": "434815",
+        "farmacoUtensilios": "Solucion Salina",
+        "cantidadExistente": 200,
+        "cantidadMin": 80,
+        "cantidadMax": 350
+    }
+]
