@@ -1,4 +1,4 @@
-# Proyecto de ABM en Python usando Clases
+# Proyecto de ABM en Python usando Clases y Tkinter
 
 Este proyecto es una aplicación básica de ABM (Alta, Baja y Modificación) desarrollada en Python, utilizando el paradigma de programación orientada a objetos (POO) y clases.
 
